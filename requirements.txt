@@ -1,0 +1,10 @@
+numpy>=1.21
+opencv-python>=4.5
+torch>=1.10
+torchvision>=0.11
+torchsummary
+tensorboardX
+tqdm
+einops
+pandas
+scipy
