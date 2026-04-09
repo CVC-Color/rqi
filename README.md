@@ -1,4 +1,4 @@
-# RQI (Relative Quality Index)
+# RQI (Relative Quality Index) 
 
 **Official code for the CVPR 2026 paper:**
 > **Bridging the Perception Gap in Image Super-Resolution Evaluation**
