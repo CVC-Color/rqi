@@ -71,10 +71,10 @@ Our provided pretrained weights achieve better performance than reported in the 
 
 | Metric       | Paper | Provided Weights |
 |:-------------|:-----:|:----------------:|
-| SRCC         | 0.733 | **0.780**        |
-| PLCC         | 0.739 | **0.795**        |
-| SRCC (subset)| 0.609 | 0.590            |
-| PLCC (subset)| 0.564 | **0.565**            |
+| SRCC (mean)        | 0.733 | **0.780**        |
+| PLCC (mean)        | 0.739 | **0.795**        |
+| SRCC (all)| 0.609 | 0.590            |
+| PLCC (all)| 0.564 | **0.565**            |
 
 ### 2.3 Using RQI as a Training Loss
 
