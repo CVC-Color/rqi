@@ -5,6 +5,7 @@
 
 📄 [arXiv](https://arxiv.org/abs/2503.13074) &nbsp;|&nbsp; 🌐 [Project Page](https://color.cvc.uab.cat/rqi/)
 
+![Teaser](imgs/Teaser.png)
 ---
 
 We investigate whether long-standing image quality metrics can actually evaluate modern SR models, and introduce RQI — a learned metric that better aligns with human preference for SR model evaluation.
@@ -99,7 +100,7 @@ If you find this work useful, please consider citing:
 ```
 
  
-![Teaser](imgs/Teaser.png)
+
 
 ---
 
