@@ -99,7 +99,7 @@ If you find this work useful, please consider citing:
 ```
 
  
-![Teaser](imgs/Pic_RQI.webp)
+![Teaser](imgs/Teaser.png)
 
 ---
 
